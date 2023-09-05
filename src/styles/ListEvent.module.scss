@@ -1,0 +1,54 @@
+@use 'design' as *;
+
+.item {
+    @include flex-between-center;
+    @include font-text;
+    width: calc(100% - 4rem);
+    height: 5rem;
+    padding: 0.5rem 2rem;
+
+    > .title-location {
+        @include flex-center-start;
+        flex-direction: column;
+        width: 40%;
+
+        > .title {
+            @include font-text-md;
+        }
+
+        > .location {
+            @include event-description-line-dense;
+        }
+    }
+
+    > .date-time {
+        @include flex-center-start;
+        flex-direction: column;
+        width: 15%;
+    }
+
+    > .tickets {
+        @include flex-center-start;
+        flex-direction: column;
+        width: 20%;
+
+        > .price {
+            @include font-text-bold;
+        }
+    }
+
+    > .action {
+        @include flex-center-center;
+        width: 25%;
+
+        .button-icon {
+            position: absolute;
+            right: 2rem;
+            top: calc(($button-height-sm - $line-height-md) / 2 - 1px);
+        }
+    }
+}
+
+.marked {
+    background-color: $color-background-light-grey;
+}

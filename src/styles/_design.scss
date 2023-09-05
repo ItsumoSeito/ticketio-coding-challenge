@@ -1,0 +1,156 @@
+// Colors
+$color-warning: #e6a800ff;
+$color-background-light-grey: #f2f2f2ff;
+$color-background-light-black: #424242ff;
+
+// Font
+$font-vazirmatn: var(--font-vazirmatn);
+$font-dm-sans: var(--font-dm-sans);
+
+$font-text-sans-rule: normal normal 400 18px/24px $font-dm-sans;
+
+@mixin font-title {
+    font: normal normal 700 25px/39px $font-vazirmatn;
+}
+
+@mixin font-subtitle {
+    font: normal normal 500 23px/36px $font-vazirmatn;
+}
+
+@mixin font-text {
+    font: normal normal 500 18px/28px $font-vazirmatn;
+}
+
+@mixin font-text-md {
+    font: normal normal 600 18px/28px $font-vazirmatn;
+}
+
+@mixin font-text-bold {
+    font: normal normal 700 18px/28px $font-vazirmatn;
+}
+
+@mixin font-text-sans {
+    font: $font-text-sans-rule;
+}
+
+// Layout
+$line-height-xs: 18px;
+$line-height-sm: 24px;
+$line-height-md: 28px;
+$line-height-lg: 36px;
+$line-height-xl: 39px;
+
+$button-height-md: 4rem;
+$button-height-sm: 3rem;
+$button-width-md: 22rem;
+$button-width-sm: 18rem;
+
+@mixin flex-center-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin flex-center-start {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+@mixin flex-start-center {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+@mixin flex-start-start {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+@mixin flex-end-center {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+@mixin flex-between-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+// Design
+$border-radius-sm: 6px;
+$border-radius-md: 8px;
+
+@mixin webkit-scrollbar {
+    overflow-y: scroll;
+
+    &::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: none;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #cccccc7e;
+        border-radius: 10px;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background: #9e9e9e7e;
+    }
+}
+
+// Utility
+@mixin event-description-line {
+    @include flex-start-center;
+    width: 100%;
+    gap: 1rem;
+    span {
+        @include flex-start-center;
+        gap: 0.5rem;
+    }
+}
+
+@mixin event-description-line-dense {
+    @include event-description-line;
+    span {
+        gap: 0.2rem;
+    }
+}
+
+// Export
+$exports: (
+    borderRadiusSm: $border-radius-sm,
+    borderRadiusMd: $border-radius-md,
+    colorWarning: $color-warning,
+    colorBackgroundLightGrey: $color-background-light-grey,
+    colorBackgroundLightBlack: $color-background-light-black,
+    lineHeightSm: $line-height-sm,
+    lineHeightMd: $line-height-md,
+    lineHeightLg: $line-height-lg,
+    lineHeightXl: $line-height-xl,
+    fontTextSansRule: $font-text-sans-rule,
+    buttonHeightMd: $button-height-md,
+    buttonHeightSm: $button-height-sm,
+    buttonWidthMd: $button-width-md,
+    buttonWidthSm: $button-width-sm,
+);
+
+@mixin getRule($key, $value) {
+    #{$key}: #{$value};
+}
+@mixin map-to-string($map) {
+    @each $key, $value in $map {
+        @include getRule($key, $value);
+    }
+}
+
+:export {
+    @include map-to-string($exports);
+}

@@ -1,0 +1,54 @@
+@use 'design' as *;
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#__next {
+    @include font-text;
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+
+    p {
+        margin: 0;
+    }
+}
+
+main {
+    @include flex-center-center;
+    width: 100%;
+    height: 100%;
+}
+
+#sheet {
+    width: 100%;
+    height: 100%;
+}
+
+.currency {
+    &::after {
+        content: ' €';
+    }
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.icon-md {
+    width: $line-height-md;
+    height: $line-height-md;
+}
+
+.icon-xs {
+    width: $line-height-xs;
+    height: $line-height-xs;
+}

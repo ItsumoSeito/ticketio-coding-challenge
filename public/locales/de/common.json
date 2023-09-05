@@ -1,0 +1,10 @@
+{
+    "events-list__title": "Tickets für {{location}}",
+    "events-list__view": "Ansicht:",
+    "event__time-suffix": "Uhr",
+    "event__time-from-label": "Ab",
+    "event__ticket-from-prefix": "Ab",
+    "event__remaining-tickets-alert-label": "Nur noch {{amount}} Tickets verfügbar",
+    "event__to-ticket-action-button-label": "Zu den Tickets",
+    "event__date-on-the-label": "Am"
+}

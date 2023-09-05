@@ -1,0 +1,407 @@
+[
+    {
+        "title": "Tiefblaue Nacht @ Bootshaus Blckbx",
+        "startDate": "2023-05-05T23:00:00+02:00",
+        "endDate": "2023-05-06T05:30:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/utcy3t1u/img/holder-1080.jpg?74238ecb",
+        "shopUrl": "https://bootshaus-club.ticket.io/utcy3t1u/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 15,
+        "remainingTickets": 39
+    },
+    {
+        "title": "SOLD OUT: Stella Bossi / LUSU @ Bootshaus",
+        "startDate": "2023-05-05T23:00:00+02:00",
+        "endDate": "2023-05-06T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/f9nxgv7k/img/holder-1080.jpg?92a27240",
+        "shopUrl": "https://bootshaus-club.ticket.io/f9nxgv7k/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 0,
+        "remainingTickets": 57
+    },
+    {
+        "title": "Madness RAW #4",
+        "startDate": "2023-05-06T22:30:00+02:00",
+        "endDate": "2023-05-07T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/NMXSUw4N/events/ec1qs14s/img/holder-1080.jpg?e562ce06",
+        "shopUrl": "https://bootshaus-club.ticket.io/ec1qs14s/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 35,
+        "informationText": "Get ready to unleash your inner music mania at Madness RAW #4 - where the beats go wild and the vibes run untamed!",
+        "remainingTickets": 22
+    },
+    {
+        "title": "Drop That w/ Used + Techno Floor at Bootshaus",
+        "startDate": "2023-05-12T23:00:00+02:00",
+        "endDate": "2023-05-13T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/0476umrs/img/holder-1080.jpg?7b71d1e9",
+        "shopUrl": "https://bootshaus-club.ticket.io/0476umrs/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 17
+    },
+    {
+        "title": "INURFASE w/ GPF pres. The Piepshow",
+        "startDate": "2023-05-12T22:30:00+02:00",
+        "endDate": "2023-05-13T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/aNyasSW2/events/9hg9pn76/img/holder-1080.jpg?fd2e697f",
+        "shopUrl": "https://bootshaus-club.ticket.io/9hg9pn76/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 38.69,
+        "informationText": "Where energy is infinite, reality is a myth. Inurfase Massive: Portal of Illusion"
+    },
+    {
+        "title": "SOLD OUT: unreal x Klangkuenstler, SHDW & Obscure Shape, Airod, Parallx, Farrago, Raven, and more",
+        "startDate": "2023-05-17T22:30:00+02:00",
+        "endDate": "2023-05-18T08:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/1udjwdxe/img/holder-1080.jpg?dccbeaf8",
+        "shopUrl": "https://bootshaus-club.ticket.io/1udjwdxe/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 0
+    },
+    {
+        "title": "Blacklist Redemption w. HEDEX, MARAUDA, SNAILS, HOL!, AUTOMHATE and more!",
+        "startDate": "2023-05-19T22:00:00+02:00",
+        "endDate": "2023-05-20T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/dse41wfp/img/holder-1080.jpg?dccbeaf8",
+        "shopUrl": "https://bootshaus-club.ticket.io/dse41wfp/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 35
+    },
+    {
+        "title": "Vol. II: Bootshaus Sommerfest auf 4 Floors",
+        "startDate": "2023-05-20T22:00:00+02:00",
+        "endDate": "2023-05-21T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/9ylxzvtr/img/holder-1080.jpg?f2f342de",
+        "shopUrl": "https://bootshaus-club.ticket.io/9ylxzvtr/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 12
+    },
+    {
+        "title": "Oliver Heldens pres. by Bootshaus!",
+        "startDate": "2023-05-26T23:00:00+02:00",
+        "endDate": "2023-05-27T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/tq7eevf2/img/holder-1080.jpg?dccbeaf8",
+        "shopUrl": "https://bootshaus-club.ticket.io/tq7eevf2/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 26
+    },
+    {
+        "title": "Wonderful Days - The Classic Rave Festival VOL IV",
+        "startDate": "2023-05-27T22:00:00+02:00",
+        "endDate": "2023-05-28T05:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/o2ZZz5H0/events/n3hgrtsr/img/holder-1080.jpg?d40710ee",
+        "shopUrl": "https://bootshaus-club.ticket.io/n3hgrtsr/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 30
+    },
+    {
+        "title": "Nibirii Pre Party w. Luude / Koven / Marika Rossa / uvm.",
+        "startDate": "2023-05-28T22:00:00+02:00",
+        "endDate": "2023-05-29T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/e46lkhxb/img/holder-1080.jpg?ef88e599",
+        "shopUrl": "https://bootshaus-club.ticket.io/e46lkhxb/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 20
+    },
+    {
+        "title": "Bootshaus On A Ship",
+        "startDate": "2023-06-04T14:00:00+02:00",
+        "endDate": "2023-06-04T20:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/67gw7dbt/img/holder-1080.jpg?b10ac356",
+        "shopUrl": "https://bootshaus-club.ticket.io/67gw7dbt/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Frankenwerft 35",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "50667",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 30
+    },
+    {
+        "title": "10 years BBC! Beats: Lilly Palmer / Bass: Kanine & many more",
+        "startDate": "2023-06-07T23:00:00+02:00",
+        "endDate": "2023-06-08T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/0ez744ux/img/holder-1080.jpg?f4d58c81",
+        "shopUrl": "https://bootshaus-club.ticket.io/0ez744ux/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 25
+    },
+    {
+        "title": "Vol: III - Bootshaus Sommerfest auf 4 Floors inkl. Open Air!",
+        "startDate": "2023-06-17T22:00:00+02:00",
+        "endDate": "2023-06-18T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/anc9x39z/img/holder-1080.jpg?a14f687c",
+        "shopUrl": "https://bootshaus-club.ticket.io/anc9x39z/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 12
+    },
+    {
+        "title": "Chrome Cologne: Basswell, Lee Ann Roberts, Oposition, Cloudy, uvm.",
+        "startDate": "2023-06-23T22:00:00+02:00",
+        "endDate": "2023-06-24T08:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/7z03s177/img/holder-1080.jpg?79805d7e",
+        "shopUrl": "https://bootshaus-club.ticket.io/7z03s177/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 35
+    },
+    {
+        "title": "SOLD OUT: unreal pres. Nico Moreno all night long",
+        "startDate": "2023-07-14T23:00:00+02:00",
+        "endDate": "2023-07-15T07:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/aeqabhs1/img/holder-1080.jpg?e96e55bb",
+        "shopUrl": "https://bootshaus-club.ticket.io/aeqabhs1/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 0
+    },
+    {
+        "title": "Vol. IV: Bootshaus Sommerfest auf 4 Floors",
+        "startDate": "2023-07-15T22:00:00+02:00",
+        "endDate": "2023-07-16T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/funmr7eb/img/holder-1080.jpg?e96e55bb",
+        "shopUrl": "https://bootshaus-club.ticket.io/funmr7eb/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 10
+    },
+    {
+        "title": "HEX Cologne | Lorenzo Raganzini b2b Paolo Ferrara, Callush b2b B2, Tham",
+        "startDate": "2023-07-21T23:00:00+02:00",
+        "endDate": "2023-07-22T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/y1tz6bty/img/holder-1080.jpg?e96e55bb",
+        "shopUrl": "https://bootshaus-club.ticket.io/y1tz6bty/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 30
+    },
+    {
+        "title": "Hakke360 pres. 30 Years RTC",
+        "startDate": "2023-07-29T22:30:00+02:00",
+        "endDate": "2023-07-30T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/HIR9JwZt/events/1vau90er/img/holder-1080.jpg?973a8e10",
+        "shopUrl": "https://bootshaus-club.ticket.io/1vau90er/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 22
+    },
+    {
+        "title": "CMON: HBz, Oliver Magenta, Tiefblau, Sarazar, Rewi",
+        "startDate": "2023-08-25T22:00:00+02:00",
+        "endDate": "2023-08-26T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/zaksg6th/img/holder-1080.jpg?9f66e5c1",
+        "shopUrl": "https://bootshaus-club.ticket.io/zaksg6th/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 22
+    },
+    {
+        "title": "NIBIRII FESTIVAL 2023 - UPGRADES",
+        "startDate": "2023-08-25T12:00:00+02:00",
+        "endDate": "2023-08-27T18:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/3ppVsfbq/events/z6jva6jd/img/holder-1080.jpg?f1cf0992",
+        "shopUrl": "https://bootshaus-club.ticket.io/z6jva6jd/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Am Badesee ",
+            "addressLocality": "D\u00fcren",
+            "addressRegion": null,
+            "postalCode": "52349",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 30
+    },
+    {
+        "title": "NIBIRII FESTIVAL 2023",
+        "startDate": "2023-08-25T08:00:00+02:00",
+        "endDate": "2023-08-27T18:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/3ppVsfbq/events/2u6qt8q2/img/holder-1080.jpg?90259e86",
+        "shopUrl": "https://bootshaus-club.ticket.io/2u6qt8q2/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Am Badesee ",
+            "addressLocality": "D\u00fcren",
+            "addressRegion": null,
+            "postalCode": "52349",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 49.99
+    },
+    {
+        "title": "INURFASE MASSIVE: Highlands of Doom",
+        "startDate": "2023-09-15T22:30:00+02:00",
+        "endDate": "2023-09-16T06:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/aNyasSW2/events/bwc8gadz/img/holder-1080.jpg?137b4538",
+        "shopUrl": "https://bootshaus-club.ticket.io/bwc8gadz/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 33
+    },
+    {
+        "title": "Blacklist Festival 2023",
+        "startDate": "2023-10-07T19:00:00+02:00",
+        "endDate": "2023-10-08T07:00:00+02:00",
+        "imageUrl": "https://cdn.ticket.io/companies/AM9W0KPv/events/hwuhn0xt/img/holder-1080.jpg?4c7d314c",
+        "shopUrl": "https://bootshaus-club.ticket.io/hwuhn0xt/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Im Lipperfeld 23",
+            "addressLocality": "Oberhausen",
+            "addressRegion": null,
+            "postalCode": "46047",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 25
+    },
+    {
+        "title": "Gutscheine Bootshaus",
+        "startDate": "2023-01-01T00:01:00+01:00",
+        "endDate": "2024-01-02T05:00:00+01:00",
+        "imageUrl": "https://cdn.ticket.io/companies/DMnDlIN6/events/xln2rlc2/img/holder-1080.jpg?3c5eceb7",
+        "shopUrl": "https://bootshaus-club.ticket.io/xln2rlc2/",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Auenweg 173",
+            "addressLocality": "K\u00f6ln",
+            "addressRegion": null,
+            "postalCode": "51063",
+            "addressCountry": "Deutschland"
+        },
+        "priceFrom": 0
+    }
+]

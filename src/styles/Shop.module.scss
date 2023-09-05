@@ -1,0 +1,20 @@
+@use 'design' as *;
+
+.main {
+    @include flex-start-center;
+    flex-direction: column;
+    width: 80%;
+    height: 100%;
+
+    .logo-container {
+        height: 18rem;
+        width: 50%;
+    }
+
+    .events-list {
+        @include flex-start-center;
+        flex-direction: column;
+        width: 100%;
+        gap: 1rem;
+    }
+}

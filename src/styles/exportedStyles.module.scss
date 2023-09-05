@@ -1,0 +1,5 @@
+@use 'design' as *;
+
+:export {
+    @include map-to-string($exports);
+}

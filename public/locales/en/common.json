@@ -1,0 +1,10 @@
+{
+    "events-list__title": "Tickets for {{location}}",
+    "events-list__view": "View:",
+    "event__time-suffix": "",
+    "event__time-from-label": "From",
+    "event__ticket-from-prefix": "From",
+    "event__remaining-tickets-alert-label": "Only {{amount}} tickets left",
+    "event__to-ticket-action-button-label": "Get a ticket",
+    "event__date-on-the-label": "On the"
+}

@@ -1,0 +1,77 @@
+@use 'design' as *;
+
+.item {
+    @include flex-start-start;
+    width: 100%;
+    height: 18rem;
+    gap: 2rem;
+    margin-bottom: 2rem;
+
+    .image-container {
+        position: relative;
+        width: 25%;
+        height: 100%;
+
+        img {
+            border-radius: $border-radius-md;
+        }
+    }
+
+    .details {
+        @include flex-between-center;
+        width: 75%;
+        height: 100%;
+
+        > .text {
+            @include flex-start-start;
+            @include font-text;
+            flex-direction: column;
+            width: 70%;
+            height: 100%;
+            gap: 0.75rem;
+
+            > .title {
+                @include font-subtitle;
+                width: 70%;
+                margin-bottom: 1rem;
+            }
+
+            > .date-time {
+                @include event-description-line;
+            }
+
+            > .location {
+                @include event-description-line;
+            }
+
+            > .ticket-price {
+                @include event-description-line;
+            }
+
+            > .information {
+                @include event-description-line;
+            }
+
+            > .remaining-tickets {
+                @include event-description-line;
+
+                p {
+                    @include font-text-bold;
+                    color: $color-warning;
+                }
+            }
+        }
+
+        > .action {
+            @include flex-center-start;
+            padding-top: 4rem;
+            height: calc(100% - 4rem);
+
+            .button-icon {
+                position: absolute;
+                right: 2rem;
+                top: calc(($button-height-md - $line-height-md) / 2 - 1px);
+            }
+        }
+    }
+}
